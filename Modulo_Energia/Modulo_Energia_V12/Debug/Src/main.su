@@ -1,0 +1,11 @@
+main.c:145:5:main	112	static
+main.c:295:6:SystemClock_Config	88	static
+main.c:340:13:MX_ADC1_Init	24	static
+main.c:385:13:MX_CAN_Init	48	static
+main.c:460:13:MX_SPI1_Init	8	static
+main.c:498:13:MX_TIM2_Init	32	static
+main.c:543:13:MX_USART1_UART_Init	8	static
+main.c:576:13:MX_GPIO_Init	40	static
+main.c:630:1:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:655:6:HAL_CAN_RxFifo0MsgPendingCallback	16	static
+main.c:671:6:Error_Handler	4	static
